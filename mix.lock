@@ -1,0 +1,3 @@
+%{
+  "cowsay": {:hex, :cowsay, "0.0.1", "786b26f25b90992c1304e588ffaa0ca6e1ba02a90ad742e94441700c06fff1a2", [:mix], [], "hexpm", "9f8a6634710974787751279b22ef5d7cb3c6a74db42636540ae5db37c4632e2a"},
+}
